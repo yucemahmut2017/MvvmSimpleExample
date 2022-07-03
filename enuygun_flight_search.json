@@ -77,169 +77,169 @@
                 "code": "A3",
                 "name": "Aegean Airlines",
                 "slug": "aegean-airlines",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/A3.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/A3.png"
             },
             {
                 "code": "UX",
                 "name": "Air Europa",
                 "slug": "air-europa",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/UX.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/UX.png"
             },
             {
                 "code": "AF",
                 "name": "Air France",
                 "slug": "air-france",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/AF.png"
+                "image": "hhttps://www.enuygun.com/ucak-bileti/assets/images/airline-icon/AF.png"
             },
             {
                 "code": "JU",
                 "name": "Air Serbia",
                 "slug": "air-serbia",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/JU.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/JU.png"
             },
             {
                 "code": "AJ",
                 "name": "AnadoluJet",
                 "slug": "anadolujet",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/AJ.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/AJ.png"
             },
             {
                 "code": "CJ",
                 "name": "BA Cityflyer",
                 "slug": "ba-cityflyer",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/CJ.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/CJ.png"
             },
             {
                 "code": "BA",
                 "name": "British Airways",
                 "slug": "british-airways",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/BA.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/BA.png"
             },
             {
                 "code": "WX",
                 "name": "Cityjet",
                 "slug": "cityjet",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/WX.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/WX.png"
             },
             {
                 "code": "MS",
                 "name": "Egyptair",
                 "slug": "egyptair",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/MS.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/MS.png"
             },
             {
                 "code": "EY",
                 "name": "Etihad Airways",
                 "slug": "etihad-airways",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/EY.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/EY.png"
             },
             {
                 "code": "5F",
                 "name": "FlyOne",
                 "slug": "flyone",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/5F.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/5F.png"
             },
             {
                 "code": "AZ",
                 "name": "ITA - Italia Trasporto Aereo",
                 "slug": "ita-italia-trasporto-aereo",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/AZ.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/AZ.png"
             },
             {
                 "code": "IB",
                 "name": "Iberia",
                 "slug": "iberia",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/IB.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/IB.png"
             },
             {
                 "code": "KL",
                 "name": "KLM Royal Dutch Airlines",
                 "slug": "klm-royal-dutch-airlines",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/KL.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/KL.png"
             },
             {
                 "code": "KU",
                 "name": "Kuwait Airways",
                 "slug": "kuwait-airways",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/KU.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/KU.png"
             },
             {
                 "code": "LO",
                 "name": "LOT Polish Airlines",
                 "slug": "lot-polish-airlines",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/LO.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/LO.png"
             },
             {
                 "code": "LH",
                 "name": "Lufthansa",
                 "slug": "lufthansa",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/LH.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/LH.png"
             },
             {
                 "code": "CL",
                 "name": "Lufthansa Cityline",
                 "slug": "lufthansa-cityline",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/CL.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/CL.png"
             },
             {
                 "code": "PC",
                 "name": "Pegasus",
                 "slug": "pegasus",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/PC.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/PC.png"
             },
             {
                 "code": "NI",
                 "name": "Portugalia",
                 "slug": "portugalia",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/NI.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/NI.png"
             },
             {
                 "code": "QR",
                 "name": "Qatar Airways",
                 "slug": "qatar-airways",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/QR.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/QR.png"
             },
             {
                 "code": "AT",
                 "name": "Royal Air Maroc",
                 "slug": "royal-air-maroc",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/AT.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/AT.png"
             },
             {
                 "code": "RJ",
                 "name": "Royal Jordanian",
                 "slug": "royal-jordanian",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/RJ.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/RJ.png"
             },
             {
                 "code": "SK",
                 "name": "Scandinavian Airlines",
                 "slug": "scandinavian-airlines",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/SK.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/SK.png"
             },
             {
                 "code": "TP",
                 "name": "TAP Portugal",
                 "slug": "tap-portugal",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/TP.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/TP.png"
             },
             {
                 "code": "RO",
                 "name": "Tarom",
                 "slug": "tarom",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/RO.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/RO.png"
             },
             {
                 "code": "TK",
                 "name": "T\\u00fcrk Hava Yollar\\u0131",
                 "slug": "thy",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/TK.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/K.png"
             },
             {
                 "code": "EE",
                 "name": "XFly",
                 "slug": "xfly",
-                "image": "https:\\/\\/www.enuygun.com\\/ucak-bileti\\/assets\\/images\\/airline-icon\\/EE.png"
+                "image": "https://www.enuygun.com/ucak-bileti/assets/images/airline-icon/EE.png"
             }
         ],
         "airports": [
