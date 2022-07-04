@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">EnUygun</string>
+    <string name="app_name">SampleMvvmExample</string>
     <string name="error_text">An error occured while loading Data.</string>
 </resources>
