@@ -29,11 +29,11 @@ class MainViewModel : ViewModel() {
     }
 
     fun refresh() {
-        fetchCountries()
+        fetchFlights()
     }
 
 
-    private fun fetchCountries() {
+    private fun fetchFlights() {
         loading.value = true
         disposable.add(
             myDataService.getAllData().subscribeOn(Schedulers.newThread())
