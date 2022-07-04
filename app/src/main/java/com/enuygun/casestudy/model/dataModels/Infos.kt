@@ -1,4 +1,4 @@
-package com.enuygun.casestudy.model.enuygun
+package com.enuygun.casestudy.model.dataModels
 import com.google.gson.annotations.SerializedName
 
 

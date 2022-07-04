@@ -1,9 +1,9 @@
-package com.enuygun.casestudy.model.enuygun
+package com.enuygun.casestudy.model.dataModels
 
 import com.google.gson.annotations.SerializedName
 
 
-data class Destinations (
+data class Origins (
 
   @SerializedName("label"        ) var label       : String?  = null,
   @SerializedName("id"           ) var id          : String?  = null,

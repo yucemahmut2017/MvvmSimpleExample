@@ -1,6 +1,5 @@
-package com.enuygun.casestudy.model.enuygun
+package com.enuygun.casestudy.model.dataModels
 
-import com.enuygun.casestudy.model.enuygun.Airlines
 import com.google.gson.annotations.SerializedName
 
 

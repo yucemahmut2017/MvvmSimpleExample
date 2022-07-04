@@ -6,9 +6,9 @@ import androidx.recyclerview.widget.RecyclerView
 import com.enuygun.casestudy.Extensions.getProgressDrawable
 import com.enuygun.casestudy.Extensions.loadImage
 import com.enuygun.casestudy.databinding.RowFlightPlansBinding
-import com.enuygun.casestudy.model.enuygun.Airlines
-import com.enuygun.casestudy.model.enuygun.Departure
-import com.enuygun.casestudy.model.enuygun.Segments
+import com.enuygun.casestudy.model.dataModels.Airlines
+import com.enuygun.casestudy.model.dataModels.Departure
+import com.enuygun.casestudy.model.dataModels.Segments
 
 class FlightsListAdapter(
     private var airlines: ArrayList<Airlines>,

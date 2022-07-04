@@ -5,7 +5,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.enuygun.casestudy.di.component.DaggerApiComponent
 import com.enuygun.casestudy.model.MyDataService
-import com.enuygun.casestudy.model.enuygun.DataModel
+import com.enuygun.casestudy.model.dataModels.DataModel
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.observers.DisposableSingleObserver
