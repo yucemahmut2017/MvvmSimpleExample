@@ -7,17 +7,19 @@ import com.enuygun.casestudy.di.component.DaggerApiComponent
 import com.enuygun.casestudy.model.MyDataService
 import com.enuygun.casestudy.model.dataModels.DataModel
 import io.reactivex.android.schedulers.AndroidSchedulers
+import io.reactivex.annotations.SchedulerSupport.IO
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.observers.DisposableSingleObserver
 import io.reactivex.schedulers.Schedulers
 import javax.inject.Inject
 
 
+
 class MainViewModel : ViewModel() {
 
     @Inject
     lateinit var myDataService: MyDataService
-    private val disposable = CompositeDisposable()
+    private val disposable = CompositeDisposable()//Kullan at nesnesi
 
 
     val data = MutableLiveData<DataModel>()
@@ -37,7 +39,7 @@ class MainViewModel : ViewModel() {
         loading.value = true
         disposable.add(
             myDataService.getAllData().subscribeOn(Schedulers.newThread())
-                .observeOn(AndroidSchedulers.mainThread())
+                .observeOn(Schedulers.io())//arkaplan işerini burda  -- > Corotines Dispatcher.IO
                 .subscribeWith(object : DisposableSingleObserver<DataModel>() {
                     override fun onSuccess(value: DataModel?) {
                         data.value = value

@@ -8,8 +8,8 @@ import com.enuygun.casestudy.viewmodel.MainViewModel
 @Component(modules = [ApiModule::class])
 interface ApiComponent {
 
-    fun inject(service: MyDataService)
+    fun inject(service: MyDataService)//MyDataService içinde ApiModule deki classları kulalacam
 
-    fun inject(viewModel: MainViewModel)
+    fun inject(viewModel: MainViewModel)///MainViewModel içinde ApiModule deki classları kulalacam
 
 }
